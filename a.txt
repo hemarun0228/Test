@@ -1,0 +1,16 @@
+This is our First File.
+I will track it using GIT.
+I will commit it.
+Saving it to local Git.
+then push it to server.
+From wher it can be shared.
+1. Creating a file ( Workspace
+2. Unitl an unles it is saved this file is in GIT staging area.
+3. To make git track when i have many files.
+4. to this file git add filename git will track only this file
+5. Save the file to local repo.
+6. I will save this file to local git repo using below command:
+   git commit -m " any Message"
+7. Push it remote repository ( Server)
+
+
